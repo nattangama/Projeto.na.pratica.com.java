@@ -2,10 +2,10 @@
 
 
 #### Descrição
-Estudo sobre padrões de projetos ministrada pelo professor Venilton FalvoJr, na plataforma DIO. 
+Estudo de bootcamp sobre padrões de projetos ensinado pelo professor Venilton FalvoJr na plataforma da Digital Innovation One. 
 
 #### Resumo
-Este repositório foi reproduzido durante as aulas, junto ao professor, onde pude absorver conceitos como singleton strategy e facade. Além de aprender vários conceitos do framework Spring em uma API REST.
+Este repositório foi elaborado durante as aulas de codificação com springo boot e java, junto ao professor, onde pude absorver fundamentos como singleton strategy e facade. Inclusive aprender vários conceitos do framework Spring em uma API REST.
 
 
 ###### Bootcamp da GFT Start #5 Java
